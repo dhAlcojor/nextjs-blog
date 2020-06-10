@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
         </Head>
         <section className={utilStyles.headingMd}>
           <p>
-            Helo, I'm <b>Daniel</b>. I'm a software developer and I also write fiction (fantasy and science fiction). You can check my website <a href={'https://danielhalcojor.com'}>here</a>.
+            Hello, I'm <b>Daniel</b>. I'm a software developer and I also write fiction (fantasy and science fiction). You can check my "writer" website <a href={'https://danielhalcojor.com'}>here</a>.
           </p>
           <p>
             (This is a sample website - you’ll be building a site like this on{' '}
